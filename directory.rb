@@ -1,3 +1,4 @@
+#Print the list of students
 puts "The students of Villains Academy"
 puts "-------------"
 puts "Dr. Hannibal Lecter"
@@ -11,3 +12,7 @@ puts "Freddy Krueger"
 puts "The Joker"
 puts "Joffrey Baratheon"
 puts "Norman Bates"
+#Print the total number of students
+print "Overall, we have "
+print 11
+print " great students"
